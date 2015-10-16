@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 #import <objc/runtime.h>
 
-#define timeGap 0.5
+#define timeGap 0.3
 
 @interface UIViewController (Previewing)
 
